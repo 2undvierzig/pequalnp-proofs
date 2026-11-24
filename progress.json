@@ -1,9 +1,14 @@
 {
   "project": "https://pequalnp.com",
-  "status": "checking",
-  "task": "L-meta-4225",
+  "status": "idle",
+  "task": null,
   "pending": [],
   "attempts": [
+    {
+      "task": "L-meta-4225",
+      "outcome": "open_goals",
+      "finished_at": "2026-11-24T22:00:48+00:00"
+    },
     {
       "task": "L-meta-4297",
       "outcome": "open_goals",
@@ -33,5 +38,5 @@
       "proof_commit": "b81656166929c55962da82f69de21f65ff46a4b4"
     }
   ],
-  "updated_at": "2026-11-24T21:55:25+00:00"
+  "updated_at": "2026-11-24T22:00:50+00:00"
 }
