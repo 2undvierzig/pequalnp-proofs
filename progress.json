@@ -3,5 +3,17 @@
   "status": "working",
   "task": "L-meta-4013",
   "pending": [],
-  "updated_at": "2026-11-24T18:39:10+00:00"
+  "attempts": [
+    {
+      "task": "L-meta-2794",
+      "outcome": "open_goals",
+      "finished_at": "2026-11-24T18:20:30+00:00"
+    },
+    {
+      "task": "L-meta-1405",
+      "outcome": "incomplete",
+      "finished_at": "2026-11-24T17:57:43+00:00"
+    }
+  ],
+  "updated_at": "2026-11-24T18:44:49+00:00"
 }
