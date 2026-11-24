@@ -1,6 +1,6 @@
 {
   "project": "https://pequalnp.com",
-  "status": "working",
+  "status": "checking",
   "task": "L-meta-4225",
   "pending": [],
   "attempts": [
@@ -33,5 +33,5 @@
       "proof_commit": "b81656166929c55962da82f69de21f65ff46a4b4"
     }
   ],
-  "updated_at": "2026-11-24T21:28:13+00:00"
+  "updated_at": "2026-11-24T21:28:47+00:00"
 }
