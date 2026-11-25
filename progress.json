@@ -4,10 +4,6 @@
   "task": "L-meta-10467",
   "pending": [
     {
-      "task": "L-meta-15371",
-      "pull": 20143
-    },
-    {
       "task": "L-meta-15773",
       "pull": 20874
     },
@@ -33,6 +29,14 @@
     }
   ],
   "events": [
+    {
+      "id": 135,
+      "task": "L-meta-15371",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-25T20:54:54.000+00:00",
+      "pull": 20143
+    },
     {
       "id": 134,
       "task": "L-meta-16949",
@@ -1129,5 +1133,5 @@
   ],
   "event_pages": [],
   "ready_at": null,
-  "updated_at": "2026-11-25T20:52:30+00:00"
+  "updated_at": "2026-11-25T20:57:31+00:00"
 }
