@@ -10,6 +10,13 @@
   ],
   "events": [
     {
+      "id": 86,
+      "task": "L-meta-12098",
+      "phase": "partial",
+      "detail": "witness",
+      "at": "2026-11-25T15:09:04.681+00:00"
+    },
+    {
       "id": 85,
       "task": "L-meta-12098",
       "phase": "working",
@@ -669,5 +676,5 @@
   ],
   "event_pages": [],
   "ready_at": null,
-  "updated_at": "2026-11-25T15:04:21+00:00"
+  "updated_at": "2026-11-25T15:09:08+00:00"
 }
