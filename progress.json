@@ -8,10 +8,6 @@
       "pull": 21168
     },
     {
-      "task": "L-meta-16901",
-      "pull": 21240
-    },
-    {
       "task": "L-meta-16829",
       "pull": 21293
     },
@@ -25,6 +21,14 @@
     }
   ],
   "events": [
+    {
+      "id": 138,
+      "task": "L-meta-16901",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-25T21:46:30.000+00:00",
+      "pull": 21240
+    },
     {
       "id": 137,
       "task": "L-meta-15773",
@@ -1144,5 +1148,5 @@
   ],
   "event_pages": [],
   "ready_at": null,
-  "updated_at": "2026-11-25T21:38:00+00:00"
+  "updated_at": "2026-11-25T21:48:04+00:00"
 }
