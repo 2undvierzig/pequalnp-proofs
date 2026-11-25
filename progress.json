@@ -4,10 +4,6 @@
   "task": "L-meta-10467",
   "pending": [
     {
-      "task": "L-meta-16829",
-      "pull": 21293
-    },
-    {
       "task": "L-meta-16843",
       "pull": 21365
     },
@@ -1175,5 +1171,5 @@
   ],
   "event_pages": [],
   "ready_at": null,
-  "updated_at": "2026-11-25T22:02:56+00:00"
+  "updated_at": "2026-11-25T22:08:08+00:00"
 }
