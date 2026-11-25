@@ -1,9 +1,16 @@
 {
   "project": "https://pequalnp.com",
-  "status": "idle",
-  "task": null,
+  "status": "working",
+  "task": "L-meta-11972",
   "pending": [],
   "events": [
+    {
+      "id": 82,
+      "task": "L-meta-11972",
+      "phase": "working",
+      "detail": "",
+      "at": "2026-11-25T14:59:17.391+00:00"
+    },
     {
       "id": 81,
       "task": "L-meta-11310",
@@ -625,6 +632,6 @@
     }
   ],
   "event_pages": [],
-  "ready_at": "2026-11-25T14:52:26+00:00",
-  "updated_at": "2026-11-25T14:52:26+00:00"
+  "ready_at": null,
+  "updated_at": "2026-11-25T14:59:19+00:00"
 }
