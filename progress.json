@@ -5,6 +5,27 @@
   "pending": [],
   "events": [
     {
+      "id": 69,
+      "task": "L-meta-2379",
+      "phase": "repair",
+      "detail": "",
+      "at": "2026-11-25T13:36:45.526+00:00"
+    },
+    {
+      "id": 68,
+      "task": "L-meta-2379",
+      "phase": "checking",
+      "detail": "reduction",
+      "at": "2026-11-25T13:36:44.913+00:00"
+    },
+    {
+      "id": 67,
+      "task": "L-meta-2379",
+      "phase": "partial",
+      "detail": "finite",
+      "at": "2026-11-25T13:36:44.864+00:00"
+    },
+    {
       "id": 66,
       "task": "L-meta-2379",
       "phase": "partial",
@@ -521,5 +542,5 @@
   ],
   "event_pages": [],
   "ready_at": null,
-  "updated_at": "2026-11-25T13:35:14+00:00"
+  "updated_at": "2026-11-25T13:36:46+00:00"
 }
