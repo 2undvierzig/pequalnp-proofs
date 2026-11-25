@@ -10,9 +10,21 @@
     {
       "task": "L-meta-15371",
       "pull": 20143
+    },
+    {
+      "task": "L-meta-15773",
+      "pull": 20874
     }
   ],
   "events": [
+    {
+      "id": 118,
+      "task": "L-meta-15773",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-25T20:14:07.083+00:00",
+      "pull": 20874
+    },
     {
       "id": 117,
       "task": "L-meta-15773",
@@ -938,5 +950,5 @@
   ],
   "event_pages": [],
   "ready_at": null,
-  "updated_at": "2026-11-25T20:14:06+00:00"
+  "updated_at": "2026-11-25T20:14:16+00:00"
 }
