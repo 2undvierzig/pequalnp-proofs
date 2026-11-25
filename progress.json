@@ -5,6 +5,13 @@
   "pending": [],
   "events": [
     {
+      "id": 72,
+      "task": "L-meta-2379",
+      "phase": "partial",
+      "detail": "finite",
+      "at": "2026-11-25T14:04:00.138+00:00"
+    },
+    {
       "id": 71,
       "task": "L-meta-2379",
       "phase": "partial",
@@ -556,5 +563,5 @@
   ],
   "event_pages": [],
   "ready_at": null,
-  "updated_at": "2026-11-25T14:02:20+00:00"
+  "updated_at": "2026-11-25T14:10:22+00:00"
 }
