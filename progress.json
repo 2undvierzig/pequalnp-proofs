@@ -14,6 +14,14 @@
   ],
   "events": [
     {
+      "id": 96,
+      "task": "L-meta-12098",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-25T16:31:14.000+00:00",
+      "pull": 16188
+    },
+    {
       "id": 95,
       "task": "L-meta-11972",
       "phase": "accepted",
@@ -754,5 +762,5 @@
   ],
   "event_pages": [],
   "ready_at": null,
-  "updated_at": "2026-11-25T16:25:44+00:00"
+  "updated_at": "2026-11-25T16:35:34+00:00"
 }
