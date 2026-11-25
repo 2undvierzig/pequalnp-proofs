@@ -14,6 +14,13 @@
   ],
   "events": [
     {
+      "id": 115,
+      "task": "L-meta-10467",
+      "phase": "partial",
+      "detail": "witness",
+      "at": "2026-11-25T20:06:42.009+00:00"
+    },
+    {
       "id": 114,
       "task": "L-meta-10467",
       "phase": "working",
@@ -908,5 +915,5 @@
   ],
   "event_pages": [],
   "ready_at": null,
-  "updated_at": "2026-11-25T20:01:55+00:00"
+  "updated_at": "2026-11-25T20:06:47+00:00"
 }
