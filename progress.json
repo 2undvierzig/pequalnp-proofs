@@ -5,6 +5,22 @@
   "pending": [],
   "events": [
     {
+      "id": 109,
+      "task": "L-meta-15173",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-25T19:23:13.964+00:00",
+      "proof_commit": "c6aeeff52d9be0ce3e9d2644a7e12b3651681499",
+      "file": "lean/PEqualNP/Outside/L_meta_15173.lean"
+    },
+    {
+      "id": 108,
+      "task": "L-meta-15173",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-25T19:23:13.957+00:00"
+    },
+    {
       "id": 107,
       "task": "L-meta-14339",
       "phase": "blocked",
@@ -800,6 +816,13 @@
   ],
   "local_checks": [
     {
+      "task": "L-meta-15173",
+      "checked_at": "2026-11-25T19:23:13.953+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_15173.lean",
+      "proof_commit": "c6aeeff52d9be0ce3e9d2644a7e12b3651681499"
+    },
+    {
       "task": "L-meta-12098",
       "checked_at": "2026-11-25T15:21:47.854+00:00",
       "kind": "check",
@@ -829,6 +852,6 @@
     }
   ],
   "event_pages": [],
-  "ready_at": "2026-11-25T19:20:59+00:00",
-  "updated_at": "2026-11-25T19:20:59+00:00"
+  "ready_at": null,
+  "updated_at": "2026-11-25T19:23:20+00:00"
 }
