@@ -26,9 +26,21 @@
     {
       "task": "L-meta-16843",
       "pull": 21365
+    },
+    {
+      "task": "L-meta-16949",
+      "pull": 21506
     }
   ],
   "events": [
+    {
+      "id": 134,
+      "task": "L-meta-16949",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-25T20:42:38.101+00:00",
+      "pull": 21506
+    },
     {
       "id": 133,
       "task": "L-meta-16949",
@@ -1117,5 +1129,5 @@
   ],
   "event_pages": [],
   "ready_at": null,
-  "updated_at": "2026-11-25T20:42:41+00:00"
+  "updated_at": "2026-11-25T20:42:57+00:00"
 }
