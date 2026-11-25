@@ -1,7 +1,7 @@
 {
   "project": "https://pequalnp.com",
-  "status": "working",
-  "task": "L-meta-12098",
+  "status": "idle",
+  "task": null,
   "pending": [
     {
       "task": "L-meta-11972",
@@ -9,6 +9,15 @@
     }
   ],
   "events": [
+    {
+      "id": 88,
+      "task": "L-meta-12098",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-25T15:21:47.856+00:00",
+      "proof_commit": "cb67d8fb495850ef632d898e9677f82f33c24a76",
+      "file": "lean/PEqualNP/Outside/L_meta_12098.lean"
+    },
     {
       "id": 87,
       "task": "L-meta-12098",
@@ -660,6 +669,13 @@
   ],
   "local_checks": [
     {
+      "task": "L-meta-12098",
+      "checked_at": "2026-11-25T15:21:47.854+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_12098.lean",
+      "proof_commit": "cb67d8fb495850ef632d898e9677f82f33c24a76"
+    },
+    {
       "task": "L-meta-11972",
       "checked_at": "2026-11-25T15:02:54.507+00:00",
       "kind": "check",
@@ -683,5 +699,5 @@
   ],
   "event_pages": [],
   "ready_at": null,
-  "updated_at": "2026-11-25T15:18:40+00:00"
+  "updated_at": "2026-11-25T15:21:56+00:00"
 }
