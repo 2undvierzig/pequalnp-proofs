@@ -1,9 +1,23 @@
 {
   "project": "https://pequalnp.com",
-  "status": "working",
-  "task": "L-meta-9939",
+  "status": "idle",
+  "task": null,
   "pending": [],
   "events": [
+    {
+      "id": 100,
+      "task": "L-meta-9939",
+      "phase": "failed",
+      "detail": "incomplete",
+      "at": "2026-11-25T18:02:16.745+00:00"
+    },
+    {
+      "id": 99,
+      "task": "L-meta-9939",
+      "phase": "partial",
+      "detail": "witness",
+      "at": "2026-11-25T18:02:16.464+00:00"
+    },
     {
       "id": 98,
       "task": "L-meta-9939",
@@ -767,5 +781,5 @@
   ],
   "event_pages": [],
   "ready_at": null,
-  "updated_at": "2026-11-25T18:01:10+00:00"
+  "updated_at": "2026-11-25T18:02:18+00:00"
 }
