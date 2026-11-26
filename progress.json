@@ -5,6 +5,13 @@
   "pending": [],
   "events": [
     {
+      "id": 148,
+      "task": "L-meta-4061",
+      "phase": "repair",
+      "detail": "",
+      "at": "2026-11-26T08:03:46.081+00:00"
+    },
+    {
       "id": 147,
       "task": "L-meta-4061",
       "phase": "partial",
@@ -1198,5 +1205,5 @@
   ],
   "event_pages": [],
   "ready_at": null,
-  "updated_at": "2026-11-26T07:51:21+00:00"
+  "updated_at": "2026-11-26T08:03:47+00:00"
 }
