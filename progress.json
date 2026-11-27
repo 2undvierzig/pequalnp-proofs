@@ -4,10 +4,6 @@
   "task": "L-meta-29747",
   "pending": [
     {
-      "task": "L-meta-26490",
-      "pull": 40362
-    },
-    {
       "task": "L-meta-26783",
       "pull": 40399
     },
@@ -822,5 +818,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-27T17:27:30+00:00"
+  "updated_at": "2026-11-27T17:29:05+00:00"
 }
