@@ -78,13 +78,17 @@
     {
       "task": "L-meta-28588",
       "pull": 41699
-    },
-    {
-      "task": "L-meta-29769",
-      "pull": 42191
     }
   ],
   "events": [
+    {
+      "id": 269,
+      "task": "L-meta-29769",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-27T18:14:56.000+00:00",
+      "pull": 42191
+    },
     {
       "id": 268,
       "task": "L-meta-29898",
@@ -999,5 +1003,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-27T18:11:15+00:00"
+  "updated_at": "2026-11-27T18:15:37+00:00"
 }
