@@ -8,10 +8,6 @@
       "pull": 40449
     },
     {
-      "task": "L-meta-30066",
-      "pull": 42609
-    },
-    {
       "task": "L-meta-31539",
       "pull": 42732
     },
@@ -22,9 +18,21 @@
     {
       "task": "L-meta-32089",
       "pull": 43630
+    },
+    {
+      "task": "L-meta-32059",
+      "pull": 43704
     }
   ],
   "events": [
+    {
+      "id": 333,
+      "task": "L-meta-32059",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-27T19:37:59.614+00:00",
+      "pull": 43704
+    },
     {
       "id": 332,
       "task": "L-meta-32059",
@@ -1536,6 +1544,6 @@
       "commit": "e49be6395949bfbdb57a55281c142fdaa637e6a1"
     }
   ],
-  "ready_at": null,
-  "updated_at": "2026-11-27T19:38:02+00:00"
+  "ready_at": "2026-11-27T19:38:44+00:00",
+  "updated_at": "2026-11-27T19:38:44+00:00"
 }
