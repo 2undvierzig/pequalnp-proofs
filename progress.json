@@ -8,15 +8,18 @@
       "pull": 40449
     },
     {
-      "task": "L-meta-32089",
-      "pull": 43630
-    },
-    {
       "task": "L-pcx-384",
       "pull": 43928
     }
   ],
   "events": [
+    {
+      "id": 341,
+      "task": "L-meta-30810",
+      "phase": "partial",
+      "detail": "witness",
+      "at": "2026-11-27T20:11:00.338+00:00"
+    },
     {
       "id": 340,
       "task": "L-meta-30810",
@@ -1598,5 +1601,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-27T20:04:03+00:00"
+  "updated_at": "2026-11-27T20:11:41+00:00"
 }
