@@ -14,9 +14,53 @@
     {
       "task": "L-meta-26801",
       "pull": 40224
+    },
+    {
+      "task": "L-meta-26777",
+      "pull": 40240
     }
   ],
   "events": [
+    {
+      "id": 172,
+      "task": "L-meta-26462",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-27T16:48:09.047+00:00",
+      "proof_commit": "922e1c19e1411911508f942df02307f6b41680ec",
+      "file": "lean/PEqualNP/Outside/L_meta_26462.lean"
+    },
+    {
+      "id": 171,
+      "task": "L-meta-26462",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-27T16:48:09.042+00:00"
+    },
+    {
+      "id": 170,
+      "task": "L-meta-26777",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-27T16:47:54.906+00:00",
+      "pull": 40240
+    },
+    {
+      "id": 169,
+      "task": "L-meta-26777",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-27T16:47:43.525+00:00",
+      "proof_commit": "7fd97acb3724ba57c0a2384ab03e3217840ea584",
+      "file": "lean/PEqualNP/Outside/L_meta_26777.lean"
+    },
+    {
+      "id": 168,
+      "task": "L-meta-26777",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-27T16:47:43.519+00:00"
+    },
     {
       "id": 167,
       "task": "L-meta-26761",
@@ -1278,6 +1322,20 @@
   ],
   "local_checks": [
     {
+      "task": "L-meta-26462",
+      "checked_at": "2026-11-27T16:48:09.040+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_26462.lean",
+      "proof_commit": "922e1c19e1411911508f942df02307f6b41680ec"
+    },
+    {
+      "task": "L-meta-26777",
+      "checked_at": "2026-11-27T16:47:43.517+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_26777.lean",
+      "proof_commit": "7fd97acb3724ba57c0a2384ab03e3217840ea584"
+    },
+    {
       "task": "L-meta-26801",
       "checked_at": "2026-11-27T16:46:50.121+00:00",
       "kind": "check",
@@ -1400,5 +1458,5 @@
   ],
   "event_pages": [],
   "ready_at": null,
-  "updated_at": "2026-11-27T16:47:45+00:00"
+  "updated_at": "2026-11-27T16:48:56+00:00"
 }
