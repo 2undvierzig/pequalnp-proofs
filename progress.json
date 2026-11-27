@@ -1,7 +1,7 @@
 {
   "project": "https://pequalnp.com",
-  "status": "idle",
-  "task": null,
+  "status": "working",
+  "task": "L-meta-29898",
   "pending": [
     {
       "task": "L-meta-9134",
@@ -30,10 +30,6 @@
     {
       "task": "L-meta-26462",
       "pull": 40849
-    },
-    {
-      "task": "L-meta-29638",
-      "pull": 40884
     },
     {
       "task": "L-meta-26757",
@@ -86,9 +82,20 @@
     {
       "task": "L-meta-28588",
       "pull": 41699
+    },
+    {
+      "task": "L-meta-29769",
+      "pull": 42191
     }
   ],
   "events": [
+    {
+      "id": 267,
+      "task": "L-meta-29898",
+      "phase": "working",
+      "detail": "",
+      "at": "2026-11-27T18:01:21.826+00:00"
+    },
     {
       "id": 266,
       "task": "L-meta-29769",
@@ -989,5 +996,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-27T17:59:41+00:00"
+  "updated_at": "2026-11-27T18:02:14+00:00"
 }
