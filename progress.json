@@ -30,9 +30,21 @@
     {
       "task": "L-meta-26490",
       "pull": 40362
+    },
+    {
+      "task": "L-meta-26783",
+      "pull": 40399
     }
   ],
   "events": [
+    {
+      "id": 187,
+      "task": "L-meta-26783",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-27T16:53:53.882+00:00",
+      "pull": 40399
+    },
     {
       "id": 186,
       "task": "L-meta-26783",
@@ -1617,5 +1629,5 @@
   ],
   "event_pages": [],
   "ready_at": null,
-  "updated_at": "2026-11-27T16:53:54+00:00"
+  "updated_at": "2026-11-27T16:54:53+00:00"
 }
