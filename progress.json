@@ -50,6 +50,13 @@
   ],
   "events": [
     {
+      "id": 320,
+      "task": "L-meta-29898",
+      "phase": "repair",
+      "detail": "",
+      "at": "2026-11-27T19:01:07.686+00:00"
+    },
+    {
       "id": 319,
       "task": "L-meta-30074",
       "phase": "accepted",
@@ -1446,5 +1453,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-27T18:57:18+00:00"
+  "updated_at": "2026-11-27T19:01:53+00:00"
 }
