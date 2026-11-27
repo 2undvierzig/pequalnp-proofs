@@ -6,9 +6,21 @@
     {
       "task": "L-meta-9134",
       "pull": 40449
+    },
+    {
+      "task": "L-lib-938",
+      "pull": 44670
     }
   ],
   "events": [
+    {
+      "id": 348,
+      "task": "L-lib-938",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-27T21:00:30.939+00:00",
+      "pull": 44670
+    },
     {
       "id": 347,
       "task": "L-lib-938",
@@ -1647,6 +1659,6 @@
       "commit": "e49be6395949bfbdb57a55281c142fdaa637e6a1"
     }
   ],
-  "ready_at": null,
-  "updated_at": "2026-11-27T21:00:30+00:00"
+  "ready_at": "2026-11-27T21:01:13+00:00",
+  "updated_at": "2026-11-27T21:01:13+00:00"
 }
