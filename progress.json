@@ -86,6 +86,13 @@
   ],
   "events": [
     {
+      "id": 268,
+      "task": "L-meta-29898",
+      "phase": "partial",
+      "detail": "finite",
+      "at": "2026-11-27T18:10:14.763+00:00"
+    },
+    {
       "id": 267,
       "task": "L-meta-29898",
       "phase": "working",
@@ -992,5 +999,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-27T18:07:07+00:00"
+  "updated_at": "2026-11-27T18:11:15+00:00"
 }
