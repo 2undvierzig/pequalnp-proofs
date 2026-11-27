@@ -4,14 +4,6 @@
   "task": "L-meta-29747",
   "pending": [
     {
-      "task": "L-meta-26801",
-      "pull": 40224
-    },
-    {
-      "task": "L-meta-26753",
-      "pull": 40263
-    },
-    {
       "task": "L-meta-26490",
       "pull": 40362
     },
@@ -97,6 +89,14 @@
     }
   ],
   "events": [
+    {
+      "id": 246,
+      "task": "L-meta-26753",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-27T17:24:44.000+00:00",
+      "pull": 40263
+    },
     {
       "id": 245,
       "task": "L-meta-26488",
@@ -787,5 +787,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-27T17:23:34+00:00"
+  "updated_at": "2026-11-27T17:25:25+00:00"
 }
