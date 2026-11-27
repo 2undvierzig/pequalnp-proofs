@@ -8,22 +8,6 @@
       "pull": 40449
     },
     {
-      "task": "L-meta-27891",
-      "pull": 40839
-    },
-    {
-      "task": "L-meta-26757",
-      "pull": 40889
-    },
-    {
-      "task": "L-meta-28710",
-      "pull": 40940
-    },
-    {
-      "task": "L-meta-27925",
-      "pull": 40998
-    },
-    {
       "task": "L-meta-28568",
       "pull": 41055
     },
@@ -74,9 +58,37 @@
     {
       "task": "L-meta-31539",
       "pull": 42732
+    },
+    {
+      "task": "L-meta-31555",
+      "pull": 42766
     }
   ],
   "events": [
+    {
+      "id": 310,
+      "task": "L-meta-31555",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-27T18:36:42.343+00:00",
+      "pull": 42766
+    },
+    {
+      "id": 309,
+      "task": "L-meta-31555",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-27T18:36:30.080+00:00",
+      "proof_commit": "b90ab1cbf52eaa860a540a6549be8cc2e7f044cc",
+      "file": "lean/PEqualNP/Outside/L_meta_31555.lean"
+    },
+    {
+      "id": 308,
+      "task": "L-meta-31555",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-27T18:36:30.070+00:00"
+    },
     {
       "id": 307,
       "task": "L-meta-31539",
@@ -963,6 +975,13 @@
   ],
   "local_checks": [
     {
+      "task": "L-meta-31555",
+      "checked_at": "2026-11-27T18:36:30.065+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_31555.lean",
+      "proof_commit": "b90ab1cbf52eaa860a540a6549be8cc2e7f044cc"
+    },
+    {
       "task": "L-meta-31539",
       "checked_at": "2026-11-27T18:34:43.977+00:00",
       "kind": "check",
@@ -1365,5 +1384,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-27T18:36:29+00:00"
+  "updated_at": "2026-11-27T18:38:25+00:00"
 }
