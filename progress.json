@@ -4,10 +4,6 @@
   "task": null,
   "pending": [
     {
-      "task": "L-meta-26789",
-      "pull": 40066
-    },
-    {
       "task": "L-meta-26801",
       "pull": 40224
     },
@@ -66,9 +62,33 @@
     {
       "task": "L-meta-26462",
       "pull": 40849
+    },
+    {
+      "task": "L-meta-29638",
+      "pull": 40884
+    },
+    {
+      "task": "L-meta-26757",
+      "pull": 40889
     }
   ],
   "events": [
+    {
+      "id": 218,
+      "task": "L-meta-26757",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-27T17:09:42.269+00:00",
+      "pull": 40889
+    },
+    {
+      "id": 217,
+      "task": "L-meta-29638",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-27T17:09:34.468+00:00",
+      "pull": 40884
+    },
     {
       "id": 216,
       "task": "L-meta-29638",
@@ -473,5 +493,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-27T17:09:28+00:00"
+  "updated_at": "2026-11-27T17:10:23+00:00"
 }
