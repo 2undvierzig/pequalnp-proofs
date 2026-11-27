@@ -1,7 +1,7 @@
 {
   "project": "https://pequalnp.com",
-  "status": "working",
-  "task": "L-lib-938",
+  "status": "idle",
+  "task": null,
   "pending": [
     {
       "task": "L-meta-9134",
@@ -9,6 +9,15 @@
     }
   ],
   "events": [
+    {
+      "id": 347,
+      "task": "L-lib-938",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-27T20:59:50.306+00:00",
+      "proof_commit": "042699bccda425d811d37f2c5d3d1af81d8fd35d",
+      "file": "lean/PEqualNP/Outside/L_lib_938.lean"
+    },
     {
       "id": 346,
       "task": "L-lib-938",
@@ -1195,6 +1204,13 @@
   ],
   "local_checks": [
     {
+      "task": "L-lib-938",
+      "checked_at": "2026-11-27T20:59:50.304+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_lib_938.lean",
+      "proof_commit": "042699bccda425d811d37f2c5d3d1af81d8fd35d"
+    },
+    {
       "task": "L-pcx-384",
       "checked_at": "2026-11-27T20:00:47.996+00:00",
       "kind": "check",
@@ -1632,5 +1648,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-27T20:59:03+00:00"
+  "updated_at": "2026-11-27T21:00:30+00:00"
 }
