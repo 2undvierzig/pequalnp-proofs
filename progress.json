@@ -1,7 +1,7 @@
 {
   "project": "https://pequalnp.com",
-  "status": "working",
-  "task": "L-meta-18133",
+  "status": "idle",
+  "task": null,
   "pending": [
     {
       "task": "L-meta-9134",
@@ -9,6 +9,23 @@
     }
   ],
   "events": [
+    {
+      "id": 357,
+      "task": "L-meta-18133",
+      "phase": "submitted",
+      "detail": "reduction",
+      "at": "2026-11-27T23:09:32.287+00:00",
+      "pull": 45180
+    },
+    {
+      "id": 356,
+      "task": "L-meta-18133",
+      "phase": "verified",
+      "detail": "reduction",
+      "at": "2026-11-27T23:09:20.805+00:00",
+      "proof_commit": "6cfe8acd490a7b1512e674bbb2369650fc473ed4",
+      "file": "lean/PEqualNP/Outside/R_meta_18133_952.lean"
+    },
     {
       "id": 355,
       "task": "L-meta-18133",
@@ -1261,6 +1278,13 @@
   ],
   "local_checks": [
     {
+      "task": "L-meta-18133",
+      "checked_at": "2026-11-27T23:09:20.801+00:00",
+      "kind": "reduce",
+      "file": "lean/PEqualNP/Outside/R_meta_18133_952.lean",
+      "proof_commit": "6cfe8acd490a7b1512e674bbb2369650fc473ed4"
+    },
+    {
       "task": "L-lib-938",
       "checked_at": "2026-11-27T20:59:50.304+00:00",
       "kind": "check",
@@ -1705,5 +1729,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-27T23:08:28+00:00"
+  "updated_at": "2026-11-27T23:09:59+00:00"
 }
