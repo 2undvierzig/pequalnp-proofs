@@ -8,10 +8,6 @@
       "pull": 40224
     },
     {
-      "task": "L-meta-26777",
-      "pull": 40240
-    },
-    {
       "task": "L-meta-26753",
       "pull": 40263
     },
@@ -82,9 +78,25 @@
     {
       "task": "L-meta-27925",
       "pull": 40998
+    },
+    {
+      "task": "L-meta-28700",
+      "pull": 41022
+    },
+    {
+      "task": "L-meta-28568",
+      "pull": 41055
     }
   ],
   "events": [
+    {
+      "id": 234,
+      "task": "L-meta-28568",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-27T17:14:44.534+00:00",
+      "pull": 41055
+    },
     {
       "id": 233,
       "task": "L-meta-28568",
@@ -659,5 +671,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-27T17:14:25+00:00"
+  "updated_at": "2026-11-27T17:15:26+00:00"
 }
