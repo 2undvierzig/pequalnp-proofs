@@ -14,6 +14,14 @@
   ],
   "events": [
     {
+      "id": 339,
+      "task": "L-pcx-384",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-27T20:01:30.224+00:00",
+      "pull": 43928
+    },
+    {
       "id": 338,
       "task": "L-pcx-384",
       "phase": "verified",
@@ -1579,5 +1587,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-27T20:01:06+00:00"
+  "updated_at": "2026-11-27T20:02:00+00:00"
 }
