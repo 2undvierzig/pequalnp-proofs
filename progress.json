@@ -58,9 +58,20 @@
     {
       "task": "L-meta-31555",
       "pull": 42766
+    },
+    {
+      "task": "L-meta-29972",
+      "pull": 43083
     }
   ],
   "events": [
+    {
+      "id": 317,
+      "task": "L-meta-29898",
+      "phase": "partial",
+      "detail": "witness",
+      "at": "2026-11-27T18:52:29.036+00:00"
+    },
     {
       "id": 316,
       "task": "L-meta-29972",
@@ -1435,5 +1446,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-27T18:51:52+00:00"
+  "updated_at": "2026-11-27T18:52:50+00:00"
 }
