@@ -1,7 +1,7 @@
 {
   "project": "https://pequalnp.com",
   "status": "working",
-  "task": "L-meta-29774",
+  "task": "L-meta-51934",
   "pending": [
     {
       "task": "L-meta-9134",
@@ -12,27 +12,46 @@
       "pull": 45180
     },
     {
-      "task": "L-meta-36879",
-      "pull": 55440
-    },
-    {
-      "task": "L-meta-36881",
-      "pull": 55460
-    },
-    {
-      "task": "L-meta-38551",
-      "pull": 55792
-    },
-    {
-      "task": "L-meta-39899",
-      "pull": 55798
-    },
-    {
       "task": "L-meta-39933",
       "pull": 55801
+    },
+    {
+      "task": "L-meta-29774",
+      "pull": 56345
     }
   ],
   "events": [
+    {
+      "id": 806,
+      "task": "L-meta-51934",
+      "phase": "working",
+      "detail": "",
+      "at": "2026-11-28T11:41:11.782+00:00"
+    },
+    {
+      "id": 805,
+      "task": "L-meta-29774",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-28T11:38:15.839+00:00",
+      "pull": 56345
+    },
+    {
+      "id": 804,
+      "task": "L-meta-29774",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-28T11:36:54.259+00:00",
+      "proof_commit": "bfd0dbe02ff603c55149b62f5fef472b4473e221",
+      "file": "lean/PEqualNP/Outside/L_meta_29774.lean"
+    },
+    {
+      "id": 803,
+      "task": "L-meta-29774",
+      "phase": "repair",
+      "detail": "",
+      "at": "2026-11-28T11:05:34.537+00:00"
+    },
     {
       "id": 802,
       "task": "L-meta-39933",
@@ -83,6 +102,13 @@
     }
   ],
   "local_checks": [
+    {
+      "task": "L-meta-29774",
+      "checked_at": "2026-11-28T11:36:54.244+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_29774.lean",
+      "proof_commit": "bfd0dbe02ff603c55149b62f5fef472b4473e221"
+    },
     {
       "task": "L-meta-39899",
       "checked_at": "2026-11-28T10:55:34.371+00:00",
@@ -1422,5 +1448,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-28T11:00:02+00:00"
+  "updated_at": "2026-11-28T11:50:59+00:00"
 }
