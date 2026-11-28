@@ -14,6 +14,20 @@
   ],
   "events": [
     {
+      "id": 787,
+      "task": "L-meta-29774",
+      "phase": "partial",
+      "detail": "finite",
+      "at": "2026-11-28T10:16:48.028+00:00"
+    },
+    {
+      "id": 786,
+      "task": "L-meta-29774",
+      "phase": "repair",
+      "detail": "",
+      "at": "2026-11-28T10:05:28.073+00:00"
+    },
+    {
       "id": 785,
       "task": "L-meta-29774",
       "phase": "partial",
@@ -2825,5 +2839,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-28T09:58:02+00:00"
+  "updated_at": "2026-11-28T10:22:57+00:00"
 }
