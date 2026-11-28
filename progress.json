@@ -38,9 +38,21 @@
     {
       "task": "L-meta-43372",
       "pull": 50495
+    },
+    {
+      "task": "L-meta-43304",
+      "pull": 50606
     }
   ],
   "events": [
+    {
+      "id": 704,
+      "task": "L-meta-43304",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-28T05:03:03.079+00:00",
+      "pull": 50606
+    },
     {
       "id": 703,
       "task": "L-meta-43304",
@@ -2045,5 +2057,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-28T05:03:04+00:00"
+  "updated_at": "2026-11-28T05:05:00+00:00"
 }
