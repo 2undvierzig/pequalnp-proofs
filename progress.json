@@ -18,6 +18,13 @@
   ],
   "events": [
     {
+      "id": 808,
+      "task": "L-meta-51934",
+      "phase": "partial",
+      "detail": "witness",
+      "at": "2026-11-28T12:10:13.310+00:00"
+    },
+    {
       "id": 807,
       "task": "L-meta-29774",
       "phase": "accepted",
@@ -1452,5 +1459,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-28T12:03:58+00:00"
+  "updated_at": "2026-11-28T12:13:07+00:00"
 }
