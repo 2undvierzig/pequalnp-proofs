@@ -12,10 +12,6 @@
       "pull": 45180
     },
     {
-      "task": "L-meta-38459",
-      "pull": 47933
-    },
-    {
       "task": "L-meta-39325",
       "pull": 48174
     },
@@ -34,10 +30,6 @@
     {
       "task": "L-meta-39253",
       "pull": 48548
-    },
-    {
-      "task": "L-meta-38539",
-      "pull": 48603
     },
     {
       "task": "L-meta-40065",
@@ -74,9 +66,29 @@
     {
       "task": "L-meta-40698",
       "pull": 48803
+    },
+    {
+      "task": "L-meta-41496",
+      "pull": 48899
     }
   ],
   "events": [
+    {
+      "id": 674,
+      "task": "L-meta-38539",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-28T03:41:12.000+00:00",
+      "pull": 48603
+    },
+    {
+      "id": 673,
+      "task": "L-meta-38459",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-28T03:39:48.000+00:00",
+      "pull": 47933
+    },
     {
       "id": 672,
       "task": "L-meta-39315",
@@ -1777,5 +1789,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-28T03:40:01+00:00"
+  "updated_at": "2026-11-28T03:41:56+00:00"
 }
