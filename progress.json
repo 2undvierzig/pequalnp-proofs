@@ -66,9 +66,37 @@
     {
       "task": "L-meta-37771",
       "pull": 46741
+    },
+    {
+      "task": "L-meta-37265",
+      "pull": 46768
     }
   ],
   "events": [
+    {
+      "id": 410,
+      "task": "L-meta-36493",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-28T01:37:54.078+00:00",
+      "pull": 46797
+    },
+    {
+      "id": 409,
+      "task": "L-meta-36493",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-28T01:37:44.043+00:00",
+      "proof_commit": "d5030b86997dc8061d22b84bca0e08304127217f",
+      "file": "lean/PEqualNP/Outside/L_meta_36493.lean"
+    },
+    {
+      "id": 408,
+      "task": "L-meta-36493",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-28T01:37:44.038+00:00"
+    },
     {
       "id": 407,
       "task": "L-meta-37265",
@@ -159,6 +187,13 @@
     }
   ],
   "local_checks": [
+    {
+      "task": "L-meta-36493",
+      "checked_at": "2026-11-28T01:37:44.035+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_36493.lean",
+      "proof_commit": "d5030b86997dc8061d22b84bca0e08304127217f"
+    },
     {
       "task": "L-meta-37265",
       "checked_at": "2026-11-28T01:36:35.706+00:00",
@@ -720,5 +755,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-28T01:37:05+00:00"
+  "updated_at": "2026-11-28T01:38:14+00:00"
 }
