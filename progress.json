@@ -12,10 +12,6 @@
       "pull": 45180
     },
     {
-      "task": "L-meta-38695",
-      "pull": 47849
-    },
-    {
       "task": "L-meta-39429",
       "pull": 47893
     },
@@ -24,28 +20,12 @@
       "pull": 47933
     },
     {
-      "task": "L-meta-39033",
-      "pull": 48061
-    },
-    {
-      "task": "L-meta-39477",
-      "pull": 48090
-    },
-    {
       "task": "L-meta-39211",
       "pull": 48125
     },
     {
-      "task": "L-meta-40360",
-      "pull": 48167
-    },
-    {
       "task": "L-meta-39325",
       "pull": 48174
-    },
-    {
-      "task": "L-meta-38471",
-      "pull": 48195
     },
     {
       "task": "L-meta-39315",
@@ -90,9 +70,45 @@
     {
       "task": "L-meta-39925",
       "pull": 48700
+    },
+    {
+      "task": "L-meta-38455",
+      "pull": 48712
     }
   ],
   "events": [
+    {
+      "id": 658,
+      "task": "L-meta-38471",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-28T03:29:12.000+00:00",
+      "pull": 48195
+    },
+    {
+      "id": 657,
+      "task": "L-meta-40360",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-28T03:30:02.000+00:00",
+      "pull": 48167
+    },
+    {
+      "id": 656,
+      "task": "L-meta-39033",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-28T03:28:43.000+00:00",
+      "pull": 48061
+    },
+    {
+      "id": 655,
+      "task": "L-meta-38695",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-28T03:29:28.000+00:00",
+      "pull": 47849
+    },
     {
       "id": 654,
       "task": "L-meta-38455",
@@ -1621,5 +1637,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-28T03:28:24+00:00"
+  "updated_at": "2026-11-28T03:30:19+00:00"
 }
