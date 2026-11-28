@@ -14,6 +14,14 @@
   ],
   "events": [
     {
+      "id": 361,
+      "task": "L-meta-18133",
+      "phase": "accepted",
+      "detail": "reduction",
+      "at": "2026-11-28T00:19:27.000+00:00",
+      "pull": 45180
+    },
+    {
       "id": 360,
       "task": "L-meta-18133",
       "phase": "repair",
@@ -1754,5 +1762,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-28T00:10:25+00:00"
+  "updated_at": "2026-11-28T00:22:12+00:00"
 }
