@@ -12,10 +12,6 @@
       "pull": 45180
     },
     {
-      "task": "L-meta-36853",
-      "pull": 46700
-    },
-    {
       "task": "L-meta-36983",
       "pull": 47024
     },
@@ -28,14 +24,6 @@
       "pull": 47129
     },
     {
-      "task": "L-meta-36541",
-      "pull": 47146
-    },
-    {
-      "task": "L-meta-37405",
-      "pull": 47226
-    },
-    {
       "task": "L-meta-36897",
       "pull": 47247
     },
@@ -44,16 +32,8 @@
       "pull": 47274
     },
     {
-      "task": "L-meta-37377",
-      "pull": 47286
-    },
-    {
       "task": "L-meta-37753",
       "pull": 47318
-    },
-    {
-      "task": "L-meta-37831",
-      "pull": 47330
     },
     {
       "task": "L-meta-38491",
@@ -66,10 +46,6 @@
     {
       "task": "L-meta-38533",
       "pull": 47409
-    },
-    {
-      "task": "L-meta-38775",
-      "pull": 47445
     },
     {
       "task": "L-meta-38201",
@@ -170,9 +146,97 @@
     {
       "task": "L-meta-39429",
       "pull": 47893
+    },
+    {
+      "task": "L-meta-39013",
+      "pull": 47930
+    },
+    {
+      "task": "L-meta-38459",
+      "pull": 47933
+    },
+    {
+      "task": "L-meta-38043",
+      "pull": 47939
+    },
+    {
+      "task": "L-meta-36469",
+      "pull": 47946
     }
   ],
   "events": [
+    {
+      "id": 569,
+      "task": "L-meta-38265",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-28T02:32:57.619+00:00",
+      "proof_commit": "ecce6fd8f676afeaf381da211dd60f4a3cc537db",
+      "file": "lean/PEqualNP/Outside/L_meta_38265.lean"
+    },
+    {
+      "id": 568,
+      "task": "L-meta-38265",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-28T02:32:57.615+00:00"
+    },
+    {
+      "id": 567,
+      "task": "L-meta-38775",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-28T02:31:03.000+00:00",
+      "pull": 47445
+    },
+    {
+      "id": 566,
+      "task": "L-meta-39059",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-28T02:32:30.488+00:00",
+      "pull": 47985
+    },
+    {
+      "id": 565,
+      "task": "L-meta-39059",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-28T02:32:20.567+00:00",
+      "proof_commit": "a0cff80bc5504a46ddf98e78d15dcd94cea4b698",
+      "file": "lean/PEqualNP/Outside/L_meta_39059.lean"
+    },
+    {
+      "id": 564,
+      "task": "L-meta-39059",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-28T02:32:20.559+00:00"
+    },
+    {
+      "id": 563,
+      "task": "L-meta-36469",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-28T02:31:04.629+00:00",
+      "pull": 47946
+    },
+    {
+      "id": 562,
+      "task": "L-meta-36469",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-28T02:30:55.499+00:00",
+      "proof_commit": "a419c55e3cb4ad64764c6abc0b0707334dc1bdf5",
+      "file": "lean/PEqualNP/Outside/L_meta_36469.lean"
+    },
+    {
+      "id": 561,
+      "task": "L-meta-36469",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-28T02:30:55.479+00:00"
+    },
     {
       "id": 560,
       "task": "L-meta-38043",
@@ -1487,6 +1551,27 @@
   ],
   "local_checks": [
     {
+      "task": "L-meta-38265",
+      "checked_at": "2026-11-28T02:32:57.613+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_38265.lean",
+      "proof_commit": "ecce6fd8f676afeaf381da211dd60f4a3cc537db"
+    },
+    {
+      "task": "L-meta-39059",
+      "checked_at": "2026-11-28T02:32:20.556+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_39059.lean",
+      "proof_commit": "a0cff80bc5504a46ddf98e78d15dcd94cea4b698"
+    },
+    {
+      "task": "L-meta-36469",
+      "checked_at": "2026-11-28T02:30:55.476+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_36469.lean",
+      "proof_commit": "a419c55e3cb4ad64764c6abc0b0707334dc1bdf5"
+    },
+    {
       "task": "L-meta-38043",
       "checked_at": "2026-11-28T02:30:33.818+00:00",
       "kind": "check",
@@ -2383,5 +2468,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-28T02:31:01+00:00"
+  "updated_at": "2026-11-28T02:33:37+00:00"
 }
