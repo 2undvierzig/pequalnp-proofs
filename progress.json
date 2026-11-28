@@ -42,6 +42,54 @@
   ],
   "events": [
     {
+      "id": 768,
+      "task": "L-meta-45598",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-28T07:09:16.629+00:00",
+      "pull": 52686
+    },
+    {
+      "id": 767,
+      "task": "L-meta-45598",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-28T07:09:06.495+00:00",
+      "proof_commit": "8ed1970c38c40cddd7fb26bffec8d454f178a44b",
+      "file": "lean/PEqualNP/Outside/L_meta_45598.lean"
+    },
+    {
+      "id": 766,
+      "task": "L-meta-45598",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-28T07:09:06.490+00:00"
+    },
+    {
+      "id": 765,
+      "task": "L-meta-47407",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-28T07:08:17.151+00:00",
+      "pull": 52663
+    },
+    {
+      "id": 764,
+      "task": "L-meta-47407",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-28T07:07:46.949+00:00",
+      "proof_commit": "c924af2b3f97365a814cbbfdcf6b6ce91ae4d87d",
+      "file": "lean/PEqualNP/Outside/L_meta_47407.lean"
+    },
+    {
+      "id": 763,
+      "task": "L-meta-47407",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-28T07:07:46.943+00:00"
+    },
+    {
       "id": 762,
       "task": "L-meta-45722",
       "phase": "accepted",
@@ -1372,6 +1420,20 @@
   ],
   "local_checks": [
     {
+      "task": "L-meta-45598",
+      "checked_at": "2026-11-28T07:09:06.484+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_45598.lean",
+      "proof_commit": "8ed1970c38c40cddd7fb26bffec8d454f178a44b"
+    },
+    {
+      "task": "L-meta-47407",
+      "checked_at": "2026-11-28T07:07:46.940+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_47407.lean",
+      "proof_commit": "c924af2b3f97365a814cbbfdcf6b6ce91ae4d87d"
+    },
+    {
       "task": "L-meta-46842",
       "checked_at": "2026-11-28T06:46:15.863+00:00",
       "kind": "check",
@@ -2636,5 +2698,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-28T07:01:09+00:00"
+  "updated_at": "2026-11-28T07:10:33+00:00"
 }
