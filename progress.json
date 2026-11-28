@@ -20,10 +20,6 @@
       "pull": 47849
     },
     {
-      "task": "L-meta-38297",
-      "pull": 47863
-    },
-    {
       "task": "L-meta-37397",
       "pull": 47881
     },
@@ -38,10 +34,6 @@
     {
       "task": "L-meta-38459",
       "pull": 47933
-    },
-    {
-      "task": "L-meta-38043",
-      "pull": 47939
     },
     {
       "task": "L-meta-36469",
@@ -94,9 +86,53 @@
     {
       "task": "L-meta-39253",
       "pull": 48548
+    },
+    {
+      "task": "L-meta-38539",
+      "pull": 48603
     }
   ],
   "events": [
+    {
+      "id": 635,
+      "task": "L-meta-38043",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-28T03:18:24.000+00:00",
+      "pull": 47939
+    },
+    {
+      "id": 634,
+      "task": "L-meta-38297",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-28T03:17:19.000+00:00",
+      "pull": 47863
+    },
+    {
+      "id": 633,
+      "task": "L-meta-40065",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-28T03:18:15.580+00:00",
+      "pull": 48627
+    },
+    {
+      "id": 632,
+      "task": "L-meta-40065",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-28T03:17:46.686+00:00",
+      "proof_commit": "0e2ded7d01a11a38372a5109705ec433caa91fba",
+      "file": "lean/PEqualNP/Outside/L_meta_40065.lean"
+    },
+    {
+      "id": 631,
+      "task": "L-meta-40065",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-28T03:17:46.674+00:00"
+    },
     {
       "id": 630,
       "task": "L-meta-38265",
@@ -371,6 +407,13 @@
     }
   ],
   "local_checks": [
+    {
+      "task": "L-meta-40065",
+      "checked_at": "2026-11-28T03:17:46.670+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_40065.lean",
+      "proof_commit": "0e2ded7d01a11a38372a5109705ec433caa91fba"
+    },
     {
       "task": "L-meta-38539",
       "checked_at": "2026-11-28T03:15:13.267+00:00",
@@ -1391,5 +1434,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-28T03:17:26+00:00"
+  "updated_at": "2026-11-28T03:19:32+00:00"
 }
