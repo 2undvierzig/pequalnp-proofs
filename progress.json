@@ -12,10 +12,6 @@
       "pull": 45180
     },
     {
-      "task": "L-meta-36264",
-      "pull": 46149
-    },
-    {
       "task": "L-meta-36272",
       "pull": 46334
     },
@@ -134,9 +130,61 @@
     {
       "task": "L-meta-37863",
       "pull": 47569
+    },
+    {
+      "task": "L-meta-37859",
+      "pull": 47622
     }
   ],
   "events": [
+    {
+      "id": 496,
+      "task": "L-meta-37861",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-28T02:10:12.413+00:00",
+      "proof_commit": "0e2ea0d364fe2caf0d1e4d53a5ae0d4f040a6c34",
+      "file": "lean/PEqualNP/Outside/L_meta_37861.lean"
+    },
+    {
+      "id": 495,
+      "task": "L-meta-37861",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-28T02:10:12.389+00:00"
+    },
+    {
+      "id": 494,
+      "task": "L-meta-36264",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-28T02:07:36.000+00:00",
+      "pull": 46149
+    },
+    {
+      "id": 493,
+      "task": "L-meta-38587",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-28T02:08:48.059+00:00",
+      "pull": 47659
+    },
+    {
+      "id": 492,
+      "task": "L-meta-38587",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-28T02:08:37.559+00:00",
+      "proof_commit": "41a44df44b0f7c92214b049065064867813ec85e",
+      "file": "lean/PEqualNP/Outside/L_meta_38587.lean"
+    },
+    {
+      "id": 491,
+      "task": "L-meta-38587",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-28T02:08:37.542+00:00"
+    },
     {
       "id": 490,
       "task": "L-meta-18133",
@@ -891,6 +939,20 @@
   ],
   "local_checks": [
     {
+      "task": "L-meta-37861",
+      "checked_at": "2026-11-28T02:10:12.381+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_37861.lean",
+      "proof_commit": "0e2ea0d364fe2caf0d1e4d53a5ae0d4f040a6c34"
+    },
+    {
+      "task": "L-meta-38587",
+      "checked_at": "2026-11-28T02:08:37.538+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_38587.lean",
+      "proof_commit": "41a44df44b0f7c92214b049065064867813ec85e"
+    },
+    {
       "task": "L-meta-37859",
       "checked_at": "2026-11-28T02:06:56.053+00:00",
       "kind": "check",
@@ -1633,5 +1695,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-28T02:08:35+00:00"
+  "updated_at": "2026-11-28T02:10:31+00:00"
 }
