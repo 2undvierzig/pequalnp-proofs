@@ -24,10 +24,6 @@
       "pull": 46204
     },
     {
-      "task": "L-meta-36226",
-      "pull": 46237
-    },
-    {
       "task": "L-meta-36272",
       "pull": 46334
     },
@@ -118,9 +114,89 @@
     {
       "task": "L-meta-38491",
       "pull": 47364
+    },
+    {
+      "task": "L-meta-38467",
+      "pull": 47398
+    },
+    {
+      "task": "L-meta-38533",
+      "pull": 47409
     }
   ],
   "events": [
+    {
+      "id": 476,
+      "task": "L-meta-38633",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-28T02:00:45.433+00:00",
+      "proof_commit": "68f4a447c478ad80a1855e16dddf131865d3c6f9",
+      "file": "lean/PEqualNP/Outside/L_meta_38633.lean"
+    },
+    {
+      "id": 475,
+      "task": "L-meta-38633",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-28T02:00:45.422+00:00"
+    },
+    {
+      "id": 474,
+      "task": "L-meta-38201",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-28T02:00:41.600+00:00",
+      "pull": 47467
+    },
+    {
+      "id": 473,
+      "task": "L-meta-38201",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-28T02:00:12.961+00:00",
+      "proof_commit": "a38af28a33151c00557cbeb14140efb083943219",
+      "file": "lean/PEqualNP/Outside/L_meta_38201.lean"
+    },
+    {
+      "id": 472,
+      "task": "L-meta-38201",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-28T02:00:12.911+00:00"
+    },
+    {
+      "id": 471,
+      "task": "L-meta-36226",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-28T01:59:28.000+00:00",
+      "pull": 46237
+    },
+    {
+      "id": 470,
+      "task": "L-meta-38775",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-28T01:59:43.413+00:00",
+      "pull": 47445
+    },
+    {
+      "id": 469,
+      "task": "L-meta-38775",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-28T01:59:32.989+00:00",
+      "proof_commit": "5be3515f7dbfac63568a9844e5626795d49166d0",
+      "file": "lean/PEqualNP/Outside/L_meta_38775.lean"
+    },
+    {
+      "id": 468,
+      "task": "L-meta-38775",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-28T01:59:32.978+00:00"
+    },
     {
       "id": 467,
       "task": "L-meta-36585",
@@ -691,6 +767,27 @@
     }
   ],
   "local_checks": [
+    {
+      "task": "L-meta-38633",
+      "checked_at": "2026-11-28T02:00:45.417+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_38633.lean",
+      "proof_commit": "68f4a447c478ad80a1855e16dddf131865d3c6f9"
+    },
+    {
+      "task": "L-meta-38201",
+      "checked_at": "2026-11-28T02:00:12.896+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_38201.lean",
+      "proof_commit": "a38af28a33151c00557cbeb14140efb083943219"
+    },
+    {
+      "task": "L-meta-38775",
+      "checked_at": "2026-11-28T01:59:32.969+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_38775.lean",
+      "proof_commit": "5be3515f7dbfac63568a9844e5626795d49166d0"
+    },
     {
       "task": "L-meta-38533",
       "checked_at": "2026-11-28T01:58:17.445+00:00",
@@ -1385,5 +1482,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-28T01:59:20+00:00"
+  "updated_at": "2026-11-28T02:01:09+00:00"
 }
