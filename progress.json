@@ -12,20 +12,8 @@
       "pull": 45180
     },
     {
-      "task": "L-meta-41690",
-      "pull": 49627
-    },
-    {
-      "task": "L-meta-43372",
-      "pull": 50495
-    },
-    {
       "task": "L-meta-43304",
       "pull": 50606
-    },
-    {
-      "task": "L-meta-44172",
-      "pull": 50758
     },
     {
       "task": "L-meta-41648",
@@ -53,6 +41,22 @@
     }
   ],
   "events": [
+    {
+      "id": 729,
+      "task": "L-meta-41690",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-28T05:50:09.000+00:00",
+      "pull": 49627
+    },
+    {
+      "id": 728,
+      "task": "L-meta-43372",
+      "phase": "accepted",
+      "detail": "full",
+      "at": "2026-11-28T05:48:38.000+00:00",
+      "pull": 50495
+    },
     {
       "id": 727,
       "task": "L-meta-44884",
@@ -2298,5 +2302,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-28T05:39:13+00:00"
+  "updated_at": "2026-11-28T06:04:50+00:00"
 }
