@@ -110,9 +110,61 @@
     {
       "task": "L-meta-37405",
       "pull": 47226
+    },
+    {
+      "task": "L-meta-36897",
+      "pull": 47247
     }
   ],
   "events": [
+    {
+      "id": 450,
+      "task": "L-meta-37377",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-28T01:53:43.181+00:00",
+      "pull": 47286
+    },
+    {
+      "id": 449,
+      "task": "L-meta-37849",
+      "phase": "submitted",
+      "detail": "full",
+      "at": "2026-11-28T01:53:21.155+00:00",
+      "pull": 47274
+    },
+    {
+      "id": 448,
+      "task": "L-meta-37377",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-28T01:53:15.113+00:00",
+      "proof_commit": "2997505ae550474d15a538cb2b670ee138f9adf8",
+      "file": "lean/PEqualNP/Outside/L_meta_37377.lean"
+    },
+    {
+      "id": 447,
+      "task": "L-meta-37377",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-28T01:53:15.080+00:00"
+    },
+    {
+      "id": 446,
+      "task": "L-meta-37849",
+      "phase": "verified",
+      "detail": "full",
+      "at": "2026-11-28T01:53:10.079+00:00",
+      "proof_commit": "d533e5355052981065bcb3ca5a9efd25adb2d371",
+      "file": "lean/PEqualNP/Outside/L_meta_37849.lean"
+    },
+    {
+      "id": 445,
+      "task": "L-meta-37849",
+      "phase": "checking",
+      "detail": "full",
+      "at": "2026-11-28T01:53:10.074+00:00"
+    },
     {
       "id": 444,
       "task": "L-meta-36897",
@@ -499,6 +551,20 @@
     }
   ],
   "local_checks": [
+    {
+      "task": "L-meta-37377",
+      "checked_at": "2026-11-28T01:53:15.060+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_37377.lean",
+      "proof_commit": "2997505ae550474d15a538cb2b670ee138f9adf8"
+    },
+    {
+      "task": "L-meta-37849",
+      "checked_at": "2026-11-28T01:53:10.072+00:00",
+      "kind": "check",
+      "file": "lean/PEqualNP/Outside/L_meta_37849.lean",
+      "proof_commit": "d533e5355052981065bcb3ca5a9efd25adb2d371"
+    },
     {
       "task": "L-meta-36897",
       "checked_at": "2026-11-28T01:51:21.230+00:00",
@@ -1144,5 +1210,5 @@
     }
   ],
   "ready_at": null,
-  "updated_at": "2026-11-28T01:52:41+00:00"
+  "updated_at": "2026-11-28T01:54:17+00:00"
 }
